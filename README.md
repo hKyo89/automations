@@ -1,0 +1,2 @@
+# automations
+Server automation scripts
